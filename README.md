@@ -78,4 +78,5 @@ endmodule
 ![Screenshot (96)](https://github.com/HemapriyaOfficial/SR-FLIPFLOP-USING-CASE/assets/147114275/1f6db6fd-a3c1-4ee5-8faa-34d89b9253da)
 
 **RESULTS**
+
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
